@@ -20,9 +20,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="typename_vs_typedef.cpp" />
+    <ClCompile Include="xfunctionaltest.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="xalgorithm.h" />
+    <ClInclude Include="xfunctional.h" />
     <ClInclude Include="xiterator.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

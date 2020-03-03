@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Test">
+      <UniqueIdentifier>{7b1ec4b3-1a49-4381-ae7a-b1c17f34d02c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="xiterator.h">
@@ -21,10 +24,16 @@
     <ClInclude Include="xalgorithm.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="xfunctional.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="typename_vs_typedef.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="xfunctionaltest.cpp">
+      <Filter>Test</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
