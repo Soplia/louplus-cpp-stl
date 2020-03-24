@@ -24,6 +24,8 @@
     <ClCompile Include="xdeque.cpp" />
     <ClCompile Include="xfunctionaltest.cpp" />
     <ClCompile Include="xlist.cpp" />
+    <ClCompile Include="xmap.cpp" />
+    <ClCompile Include="xmultimap.cpp" />
     <ClCompile Include="xmultiset.cpp" />
     <ClCompile Include="xpriorityqueue.cpp" />
     <ClCompile Include="xqueue.cpp" />
@@ -43,6 +45,8 @@
     <ClInclude Include="xiterator.h" />
     <ClInclude Include="xlist.h" />
     <ClInclude Include="xlist.impl.h" />
+    <ClInclude Include="xmap.h" />
+    <ClInclude Include="xmultimap.h" />
     <ClInclude Include="xmultiset.h" />
     <ClInclude Include="xqueue.h" />
     <ClInclude Include="xrbtree.h" />
