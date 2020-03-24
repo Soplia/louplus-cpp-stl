@@ -104,5 +104,8 @@
     <ClCompile Include="xqueue.cpp">
       <Filter>Test</Filter>
     </ClCompile>
+    <ClCompile Include="xpriorityqueue.cpp">
+      <Filter>Test</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
