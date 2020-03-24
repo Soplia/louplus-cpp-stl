@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include "xfunctional.h"
 
@@ -18,3 +19,4 @@ class compareronum : public unary_function<int, bool>
 		return num > 5;
 	}
 };
+*/

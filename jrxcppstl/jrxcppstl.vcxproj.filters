@@ -69,6 +69,9 @@
     <ClInclude Include="xdeque.impl.h">
       <Filter>Detail</Filter>
     </ClInclude>
+    <ClInclude Include="xbitset.h">
+      <Filter>Header</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="typename_vs_typedef.cpp">
@@ -84,6 +87,9 @@
       <Filter>Test</Filter>
     </ClCompile>
     <ClCompile Include="xdeque.cpp">
+      <Filter>Test</Filter>
+    </ClCompile>
+    <ClCompile Include="xbitset.cpp">
       <Filter>Test</Filter>
     </ClCompile>
   </ItemGroup>

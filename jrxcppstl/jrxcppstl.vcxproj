@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="typename_vs_typedef.cpp" />
+    <ClCompile Include="xbitset.cpp" />
     <ClCompile Include="xdeque.cpp" />
     <ClCompile Include="xfunctionaltest.cpp" />
     <ClCompile Include="xlist.cpp" />
@@ -29,6 +30,7 @@
     <ClInclude Include="xalgorithm.h" />
     <ClInclude Include="xalloc.h" />
     <ClInclude Include="xallocator.h" />
+    <ClInclude Include="xbitset.h" />
     <ClInclude Include="xconstruct.h" />
     <ClInclude Include="xdeque.h" />
     <ClInclude Include="xdeque.impl.h" />
