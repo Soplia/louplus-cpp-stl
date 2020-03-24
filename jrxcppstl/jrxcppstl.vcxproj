@@ -24,6 +24,7 @@
     <ClCompile Include="xdeque.cpp" />
     <ClCompile Include="xfunctionaltest.cpp" />
     <ClCompile Include="xlist.cpp" />
+    <ClCompile Include="xqueue.cpp" />
     <ClCompile Include="xstack.cpp" />
     <ClCompile Include="xvector.cpp" />
   </ItemGroup>
@@ -39,6 +40,7 @@
     <ClInclude Include="xiterator.h" />
     <ClInclude Include="xlist.h" />
     <ClInclude Include="xlist.impl.h" />
+    <ClInclude Include="xqueue.h" />
     <ClInclude Include="xreverseiterator.h" />
     <ClInclude Include="xstack.h" />
     <ClInclude Include="xtypetrait.h" />
