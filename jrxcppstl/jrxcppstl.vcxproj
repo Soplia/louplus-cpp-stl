@@ -20,7 +20,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="typename_vs_typedef.cpp" />
+    <ClCompile Include="xdeque.cpp" />
     <ClCompile Include="xfunctionaltest.cpp" />
+    <ClCompile Include="xlist.cpp" />
     <ClCompile Include="xvector.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -28,8 +30,12 @@
     <ClInclude Include="xalloc.h" />
     <ClInclude Include="xallocator.h" />
     <ClInclude Include="xconstruct.h" />
+    <ClInclude Include="xdeque.h" />
+    <ClInclude Include="xdeque.impl.h" />
     <ClInclude Include="xfunctional.h" />
     <ClInclude Include="xiterator.h" />
+    <ClInclude Include="xlist.h" />
+    <ClInclude Include="xlist.impl.h" />
     <ClInclude Include="xreverseiterator.h" />
     <ClInclude Include="xtypetrait.h" />
     <ClInclude Include="xuninitializedfunctions.h" />
