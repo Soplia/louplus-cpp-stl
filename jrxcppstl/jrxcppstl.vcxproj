@@ -24,8 +24,10 @@
     <ClCompile Include="xdeque.cpp" />
     <ClCompile Include="xfunctionaltest.cpp" />
     <ClCompile Include="xlist.cpp" />
+    <ClCompile Include="xmultiset.cpp" />
     <ClCompile Include="xpriorityqueue.cpp" />
     <ClCompile Include="xqueue.cpp" />
+    <ClCompile Include="xset.cpp" />
     <ClCompile Include="xstack.cpp" />
     <ClCompile Include="xvector.cpp" />
   </ItemGroup>
@@ -41,8 +43,12 @@
     <ClInclude Include="xiterator.h" />
     <ClInclude Include="xlist.h" />
     <ClInclude Include="xlist.impl.h" />
+    <ClInclude Include="xmultiset.h" />
     <ClInclude Include="xqueue.h" />
+    <ClInclude Include="xrbtree.h" />
+    <ClInclude Include="xrbtree.impl.h" />
     <ClInclude Include="xreverseiterator.h" />
+    <ClInclude Include="xset.h" />
     <ClInclude Include="xstack.h" />
     <ClInclude Include="xtypetrait.h" />
     <ClInclude Include="xuninitializedfunctions.h" />
