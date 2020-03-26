@@ -1,4 +1,4 @@
-/*
+
 #include <iostream>
 #include "xvector.h"
 
@@ -72,4 +72,3 @@ int main()
 	system("pause");
 	return 0;
 }
-*/
